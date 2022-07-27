@@ -1,5 +1,5 @@
 
-### PROYECTO: Cotizador de Criptomonedas en Vite, Styled Components, Custom Hooks
+### PROYECTO: Control de Presupuesto en React con Vite y LocalStorage
 
 
 # iniciar el proyecto
